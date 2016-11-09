@@ -1,5 +1,5 @@
 
-(defproject count-min-sketch "0.1.0-SNAPSHOT"
+(defproject count-min-sketch "0.1.0"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
@@ -11,4 +11,3 @@
   :main ^:skip-aot count-min-sketch.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
-
