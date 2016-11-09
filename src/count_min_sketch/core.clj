@@ -1,5 +1,4 @@
 
-
 (ns count-min-sketch.core
   (:gen-class)
   (:require [ds-utils.hash-functions :as hash-funcs]
@@ -43,5 +42,6 @@
     (apply min cms-subset)))
 
 (defn get-aprox-freqs
-  [ elements]
+  [cms elements]
   (vec (map #(get-aprox-freq cms %) elements)))
+
