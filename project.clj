@@ -1,7 +1,8 @@
 
+
 (defproject count-min-sketch "0.1.0"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "A simple Count-Min Sketch implementation in Clojure."
+  :url "https://github.com/erp12/count-min-sketch"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
@@ -11,3 +12,4 @@
   :main ^:skip-aot count-min-sketch.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
+
