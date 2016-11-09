@@ -1,36 +1,26 @@
 # count-min-sketch
 
-FIXME: description
+A simple Count-Min Sketch implementation in Clojure.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Clojars coming soon!
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar count-min-sketch-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
+Coming soon!
 
 ## Examples
 
-...
+Coming soon!
 
-### Bugs
+## Contribute
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Everyone is encouraged to submit pull requests, or open issues with feature requests.
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Edward Pantridge
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
