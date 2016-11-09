@@ -1,6 +1,5 @@
 
-
-(defproject count-min-sketch "0.1.0"
+(defproject count-min-sketch "0.1.1"
   :description "A simple Count-Min Sketch implementation in Clojure."
   :url "https://github.com/erp12/count-min-sketch"
   :license {:name "Eclipse Public License"
